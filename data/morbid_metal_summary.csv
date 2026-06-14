@@ -1,0 +1,13 @@
+Topic,Total_Mentions,Mention_Rate_%,Positive_Mentions,Positive_%_Of_Total,Negative_Mentions,Negative_%_Of_Total,Positive_Rate_%,Negative_Rate_%
+Combat,69,53.91,58,45.31,11,8.59,84.06,15.94
+Build_Variety,35,27.34,29,22.66,6,4.69,82.86,17.14
+Bugs,29,22.66,24,18.75,5,3.91,82.76,17.24
+Visuals,24,18.75,21,16.41,3,2.34,87.5,12.5
+Performance,21,16.41,18,14.06,3,2.34,85.71,14.29
+Bosses,18,14.06,14,10.94,4,3.12,77.78,22.22
+Replayability,14,10.94,9,7.03,5,3.91,64.29,35.71
+Content_Quantity,9,7.03,7,5.47,2,1.56,77.78,22.22
+Difficulty,9,7.03,9,7.03,0,0.0,100.0,0.0
+Character_Switching,7,5.47,5,3.91,2,1.56,71.43,28.57
+Level_Design,7,5.47,6,4.69,1,0.78,85.71,14.29
+Enemy_Variety,2,1.56,2,1.56,0,0.0,100.0,0.0
