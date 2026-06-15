@@ -51,26 +51,6 @@ The project follows a complete analytics workflow:
 - Player Feedback Insights
 - Interactive Visualizations
 
-## Project Structure
-
-```text
-Morbid Metal/
-│
-├── data/
-│   ├── morbid_metal_reviews.csv
-│   ├── morbid_metal_tagged_reviews.csv
-│   └── topic_summary.csv
-│
-├── dashboard/
-│   └── app.py
-│
-├── notebooks/
-│   └── analytics.ipynb
-│
-├── requirements.txt
-│
-└── README.md
-```
 
 ## Technologies Used
 
